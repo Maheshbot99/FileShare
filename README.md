@@ -105,7 +105,7 @@ python3 main.py
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/Maheshbot99/FileShare/blob/main/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/Maheshbot99/FileShare/blob/main/README.md#start_message'>fillings</a> - Hello {first} I can store private files in Specified Channel and other users can access it from special link.
 * `FORCE_SUB_MESSAGE` Optional:Force sub message of bot, use HTML and Fillings - Hello {first} <b>You need to join in my Channel/Group to use me Kindly Please join Channel</b>
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
